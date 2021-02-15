@@ -6,12 +6,12 @@ import Routes from './Routes';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <Navbar />
         <Routes />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
