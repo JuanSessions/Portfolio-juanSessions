@@ -1,0 +1,17 @@
+.videos-container {
+    width: 100vw;
+    height: 90vh;
+    overflow-x: hidden;
+    height: auto;
+}
+
+#project-video {
+    position: fixed;
+    bottom: 0;
+    /* top: 0; */
+    right: 0;
+    min-width: 100%;
+    min-height: 120%;
+    object-fit: cover;
+ 
+}
