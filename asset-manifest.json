@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d39f1d1a.chunk.css",
+    "main.js": "./static/js/main.88a36dde.chunk.js",
+    "main.js.map": "./static/js/main.88a36dde.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c53b2e64.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c53b2e64.js.map",
+    "static/js/2.d74fd371.chunk.js": "./static/js/2.d74fd371.chunk.js",
+    "static/js/2.d74fd371.chunk.js.map": "./static/js/2.d74fd371.chunk.js.map",
+    "static/js/3.d81de6c1.chunk.js": "./static/js/3.d81de6c1.chunk.js",
+    "static/js/3.d81de6c1.chunk.js.map": "./static/js/3.d81de6c1.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.c9622e1bdc2104ead58ae0ea318131c3.js": "./precache-manifest.c9622e1bdc2104ead58ae0ea318131c3.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.d39f1d1a.chunk.css.map": "./static/css/main.d39f1d1a.chunk.css.map",
+    "static/js/2.d74fd371.chunk.js.LICENSE.txt": "./static/js/2.d74fd371.chunk.js.LICENSE.txt",
+    "static/js/3.d81de6c1.chunk.js.LICENSE.txt": "./static/js/3.d81de6c1.chunk.js.LICENSE.txt",
+    "static/media/faxsound.wav": "./static/media/faxsound.e91b1f21.wav",
+    "static/media/flyby.mp3": "./static/media/flyby.b8cdd0ec.mp3",
+    "static/media/App.css": "./static/media/portfolio-mask.fe7a1614.jpg",
+    "static/media/navbarsound.wav": "./static/media/navbarsound.19a85d35.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c53b2e64.js",
+    "static/js/2.d74fd371.chunk.js",
+    "static/css/main.d39f1d1a.chunk.css",
+    "static/js/main.88a36dde.chunk.js"
+  ]
+}
