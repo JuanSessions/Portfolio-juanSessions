@@ -7,14 +7,14 @@ export default function CardStatic() {
     return (
         <>
             <li className='cards__item card-two'>
-                <a href='https://youtu.be/zaiS9qKxfD4' className='cards__item__link' target="blank">
+                <a href='https://www.youtube.com/watch?v=cX1PNMyGPhs&t=7s' className='cards__item__link' target="blank">
 
                     <div className='cards__item__pic-wrap' id="card-video-container" data-category="Videos">
                         <h3 id="card-video-title">juanSessions</h3>
                         <video src="./videos/video-tv.mp4" autoPlay loop muted width="100%" className='cards__item__img' id="card-video" />
                     </div>
                     <div className='cards__item__info'>
-                        <h5 className='cards__item__text'>Original Text, Original Music, Voice-Over and Edit</h5>
+                        <h5 className='cards__item__text'>Audio and Video Editing, Soundtracks, Voice-Over</h5>
                     </div>
 
                 </a>

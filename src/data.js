@@ -10,7 +10,7 @@ const projects = [{
 {
     id: 2,
     name: "3D JavaScript - React",
-    description: "3D JS card, JS audio player React JS",
+    description: "3D JS card, JS Audio Player, React JS",
     img: "./img/screenshot3D.png",
     url: "https://juansessions.github.io/3D-JavaScript-React/",
     github: "",
@@ -18,7 +18,7 @@ const projects = [{
 },
 {
     id: 3,
-    name: "Original Design - Art Gallery (React-Redux)",
+    name: "Original Design - Art Gallery (React JS-Redux)",
     description: "Art/Photo Gallery Redux-React",
     img: "./img/art-gallery.png",
     url: "https://juansessions.github.io/Art-Gallery-Redux-React/#/",
@@ -27,7 +27,7 @@ const projects = [{
 },
 {
     id: 4,
-    name: "Responsive-React-App",
+    name: "Responsive-React JS-App",
     description: "Audio-Visual Products App",
     img: "./img/react-resp.png",
     url: "https://juansessions.github.io/react-responsive/",
