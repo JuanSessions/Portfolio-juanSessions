@@ -16,7 +16,7 @@ function Footer() {
                     <small class='website-rights'>juanSessions © 2021</small>
                     <div class='social-icons'>
                         <a
-                            class='social-icon-link facebook'
+                            class='social-icon-link github'
                             href="https://github.com/JuanSessions" target="_blanc"
                             aria-label='github'
                         >

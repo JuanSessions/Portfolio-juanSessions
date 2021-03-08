@@ -51,25 +51,7 @@ const projects = [{
     url: "https://juansessions.github.io/mobile-display/",
     github: "",
     label: 'REACT JS'
-},
-    // {
-    //     id: 20,
-    //     name: "3D JavaScript - React",
-    //     description: "3D Js card, audio Js player (React)",
-    //     img: "./img/screenshot3D.png",
-    //     url: "https://juansessions.github.io/3D-JavaScript-React/",
-    //     github: "",
-    //     label:'Cool'
-    // },
-    // {
-    //     id: 30,
-    //     name: "Original Design - Art Gallery (React-Redux)",
-    //     description: "Art/Photo Gallery-Redux-React",
-    //     img: "./img/art-gallery.png",
-    //     url: "https://juansessions.github.io/Art-Gallery-Redux-React/",
-    //     github: "",
-    //     label:'Super Cool'
-    // },
+}
 ]
 
 export default projects
