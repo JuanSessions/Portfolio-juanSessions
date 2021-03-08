@@ -4,7 +4,7 @@ export default function CardStatic() {
     return (
         <>
             <li className='cards__item card-two'>
-                <a href='https://www.youtube.com/watch?v=zaiS9qKxfD4' className='cards__item__link' target="blank">
+                <a href='https://www.youtube.com/watch?v=yg16UBDwpgs' className='cards__item__link' target="blank">
 
                     <div className='cards__item__pic-wrap' id="card-video-container" data-category="Videos">
                         <h3 id="card-video-title">juanSessions</h3>
