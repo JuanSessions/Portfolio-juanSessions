@@ -16,7 +16,7 @@ function Cards() {
                     <ul className='cards__items__all'>
                         {
                             data.map((data) => {
-                                return <CardItem key={data.i} data={data} />
+                                return <CardItem key={data.id} data={data} />
                             })
                         }
                     </ul>
