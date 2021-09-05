@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
     return (
-        <div className="content-container about">
+        <div className="about">
 
             <div className="about-text">
                 <p>I've finished my studies as a full stack web developer in July 2020, but my strong suit so far is the Front-End. Always ready to keep learning, bringing my energy and creativity to the table in a team.
